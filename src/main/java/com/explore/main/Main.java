@@ -6,6 +6,9 @@ public class Main {
 		System.out.println("welcome to jenkins");
 		System.out.println("welcome to jenkins");
 		System.out.println("welcome to jenkins");
+		
+		int a=10, b=20;
+		System.out.println("addition ::"+(a+b));
 	}
 
 }
